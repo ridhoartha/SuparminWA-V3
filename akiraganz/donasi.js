@@ -9,6 +9,8 @@ const donasi = () => {
 ┣⊱ 081217269309
 ┣━⊱ *PULSA*
 ┣⊱ 081217269309
+┣━⊱ *SAWERIA*
+┣⊱ https://saweria.co/IGI1
 ┃
 ┗━━━━━━━━━━━━━━━━━━━━`
 }
