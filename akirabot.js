@@ -60,7 +60,7 @@ const TobzKey = 'BotWeA'
 const lolhuman = 'AkiraYT' //Free Trial 3 day
 const onlydev = 'YTAkira' //Free Apikey
 const xteam = 'AkiraBotWa' //Free Trial 3 day
-const namabot = 'Akira Bot'
+const namabot = 'Suparmin'
 
 //kontak
 const vcard = 'BEGIN:VCARD\n'  //Jangan diganti,Ntar error
