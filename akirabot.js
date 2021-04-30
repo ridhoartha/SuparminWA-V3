@@ -71,15 +71,15 @@ const vcard = 'BEGIN:VCARD\n'  //Jangan diganti,Ntar error
             + 'END:VCARD' // Jangan diganti,Ntar Error
             
 //settings            
-prefix = '#'
+prefix = ','
 blocked = []   
 limitawal = '500' //Terserah Mo Ganti apa kgk
-memberlimit = 1 //Terserah Mo Ganti apa kgk
-cr = '*Akira Bot By Akira*'
-vr = '*Akira Bot Wa*\n*Subscribe Akira*'
+memberlimit = 5 //Terserah Mo Ganti apa kgk
+cr = '*Suparmin Bot By Irsyad*'
+vr = '*Suparmin Bot Wa*\n*MengGG*'
 
 //owner number
-const ownerNumber = ["6282158549899@s.whatsapp.net"]  //Ganti Jadi Nomormu
+const ownerNumber = ["6281217269309@s.whatsapp.net"]  //Ganti Jadi Nomormu
 
 //file json
 const _leveling = JSON.parse(fs.readFileSync('./database/group/leveling.json'))
@@ -5691,19 +5691,13 @@ break
 
 ◪ ɪɴғᴏ ᴀᴋɪʀᴀ
 ❏ *ɴᴀᴍᴀ:* 
-Akira ( Reihan S ) 
-❏ *ᴡᴇʙ:* 
-https://akirainfo.site/ (  Sedang dalam Perbaikan  )
-❏ *ᴡᴇʙ ᴀᴘɪ:* 
-https://akirainfo.site/ (  Sedang dalam Perbaikan  )
+Suparmin ( Irsyad ) 
 ❏ *ɪɴsᴛᴀɢʀᴀᴍ:* 
-https://instagram.com/akirashopreal
+https://instagram.com/thenay_delta
 ❏ *ᴋᴏɴᴛᴀᴋ ᴀᴋɪʀᴀ:* 
-Wa.me/6282158549899
-❏ *ɢʀᴜʙ ʙᴏᴛ ᴡᴀ:* 
-https://chat.whatsapp.com/J4HbJAqQuaAJsGovcuUNV4
-❏ *ᴄʜᴀɴɴᴇʟ ʏᴏᴜᴛᴜʙᴇ:* 
-https://m.youtube.com/channel/UCvVd-kAsrJUjg0bwKqxUPeg
+Wa.me/6281217269309
+❏ *discord:* 
+https://discord.gg/indo
   ----------------------------------
 ╔═════════════════❍
 ║⸨𝐑𝐮𝐥𝐞𝐬 - 𝐒𝐢𝐦𝐩𝐥𝒆⸩
