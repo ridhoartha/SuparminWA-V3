@@ -1,6 +1,6 @@
 const rules = (prefix) => { 
 	return `
-*RULES BAGI PENGGUNA AKIRA BOT*
+*RULES BAGI PENGGUNA SUPARMIN BOT*
     
 ➤ Tolong Gunakan Delay Jangan Spam Saat Menggunakan Bot, Mentang Mentang Gratis Diborong semua.
 ➤ Call/VC Bot Auto Block.
