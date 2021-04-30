@@ -25,7 +25,7 @@
 <details>
  <summary>😔 Help me!</summary>
  
- [Saweria](https://saweria.co/akirayt)
+ [Saweria](https://saweria.co/IGI1)
  
 </details>
 
@@ -63,8 +63,8 @@ This project require NodeJS v12
 Clone this project
 
 ```bash
-$ git clone https://github.com/AkiRaID/akirabotv3
-$ cd akirabotv3
+$ git clone https://github.com/h3h3boii/SuparminWA-V3
+$ cd SuparminWA-V3
 ```
 
 Install the dependencies:
